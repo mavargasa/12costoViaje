@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+#contenedor-formulario {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+label, input, select {
+  display: block;
+  margin-bottom: 10px;
+}
+
+#contenedor-resultado {
+  text-align: center;
+}
+
+#costo-total {
+  font-size: 24px;
+  font-weight: bold;
+}
